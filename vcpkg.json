@@ -1,0 +1,5 @@
+{
+  "name": "error-c605",
+  "version": "1.0.0",
+  "dependencies": [ "glm" ]
+}
